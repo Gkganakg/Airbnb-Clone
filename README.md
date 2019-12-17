@@ -4,7 +4,7 @@ clone project By Segfault (Team project) The goal is to reproduce AirBnB functio
 > members : 😀Lsibanda,🙃Gkganakg, 😉Kmoketo and 😎Mxaba.
 
 # How to install
-- git clone https://github.com/mxaba/airbnb_clone_project.git
+- git clone https://github.com/Gkganakg/Airbnb-Clone.git
 - To install dependencies *run* npm install
 
 # Headline specifications:
